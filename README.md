@@ -1,5 +1,5 @@
 # pytorch
-## calculate new img size
+## Calculate new img size
 W = original img size  <br>
 ex. img size = 128 * 128 , original img size = 128 <br>
 ks = kernal size <br>
